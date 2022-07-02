@@ -4,10 +4,10 @@
   <img src="https://cdn.discordapp.com/attachments/971547209369780255/992588973635555419/SerenaHello.gif"> </h1>
 <div/>
 
-<h2>Cheers, i'm João Matos and I'm in my third year of studies towards a bachelor's in Computer Science @ Instituto Superior Tecnico. </h2>
+Cheers, i'm João Matos and I'm in my third year of studies towards a bachelor's in Computer Science @ Instituto Superior Tecnico.
   
 <p align="left"> 
-<h1 align="left">Tools and Languages:</h1>
+<h2 align="left">Tools and Languages:</h1>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -22,7 +22,6 @@
   </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="linux" width="40" height="40"/> 
   </a> 
-</p>
 
 <h2 align="left">Where you can also find me:</h2>
 
@@ -33,3 +32,5 @@
 ![Discord Badge](https://img.shields.io/badge/Jonymatos%236131-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
 
 ![Playstation](https://img.shields.io/badge/jruimatos-003791?style=style=flat-square&logo=playstation&logoColor=white)
+
+</p>
