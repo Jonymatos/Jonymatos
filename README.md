@@ -1,5 +1,8 @@
 <h1 align="center"> Greetings kind lurker, welcome to my page :) </h1>
-<h1 align="center"> <img src="https://i.gifer.com/FSh2.gif"> </h1>
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/971547209369780255/992588973635555419/SerenaHello.gif"> </h1>
+<div/>
 
 <h2>Cheers, i'm João Matos and I'm in my third year of studies towards a bachelor's in Computer Science @ Instituto Superior Tecnico. </h2>
   
