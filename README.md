@@ -1,13 +1,13 @@
 <h1 align="center"> Greetings kind lurker, welcome to my page :) </h1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/971547209369780255/992588973635555419/SerenaHello.gif"> </h1>
-<div/>
+  <img src="SerenaHello.gif" height=250px> </h1>
+</div>
 
-Cheers, i'm João Matos and I'm in my third year of studies towards a bachelor's in Computer Science @ Instituto Superior Tecnico.
+<h3 align="center"> Cheers, i'm João Rui Matos and I'm in my third year of studies towards a bachelor's in Computer Science @ Instituto Superior Tecnico.</h3>
   
 <p align="left"> 
-<h2 align="left">Tools and Languages:</h1>
+<h2 align="left">Tools and Languages:</h2>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -20,7 +20,7 @@ Cheers, i'm João Matos and I'm in my third year of studies towards a bachelor's
   </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="linux" width="40" height="40"/> 
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="40" height="40"/> 
   </a> 
 
 <h2 align="left">Where you can also find me:</h2>
