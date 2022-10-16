@@ -4,7 +4,7 @@
   <img src="SerenaHello.gif" height=250px> </h1>
 </div>
 
-<h3 align="center"> Cheers, i'm João Rui Matos and I'm in my third year of studies towards a bachelor's in Computer Science @ Instituto Superior Tecnico.</h3>
+<h3 align="center"> Cheers, i'm João Rui Matos and I'm in my first year of studies towards a master's in Computer Science @ Instituto Superior Tecnico.</h3>
   
 <p align="left"> 
 <h2 align="left">Tools and Languages:</h2>
